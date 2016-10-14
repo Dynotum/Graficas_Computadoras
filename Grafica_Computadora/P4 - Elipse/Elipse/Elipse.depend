@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1426351722 source:e:\taller graficas\p4\elipse\main.cpp
+	<windows.h>
+	<GL/GLU.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1411223716 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

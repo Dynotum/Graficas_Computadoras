@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1429309214 source:f:\taller graficas\p7\lapiz, borrador, spray\main.cpp
+	<windows.h>
+	<GL/GLU.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1348870430 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
